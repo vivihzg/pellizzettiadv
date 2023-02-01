@@ -1,3 +1,14 @@
 body{
-  color: var($font-color);
+  width: 100%;
+  font-family: var(--body-font);
+  background-color: #fafafadc;
+}
+.container{
+  width: 1200px;
+
+}
+
+.fa-brands, .fa-solid{
+  font-size: 19px;
+  margin: 0 3px;
 }
