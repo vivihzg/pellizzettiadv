@@ -1,0 +1,63 @@
+header{
+  background-color: #2e2e2d;
+  padding: 20px;
+
+  .navbar-brand{
+    font-size: 20px;
+    color: white;
+    padding: 0;
+  }
+  .navbar-brand:hover{
+    color: #5f1bff;
+    transition: 0.5s;
+  }
+  .nav-link{
+    color: white;
+    text-decoration: none;
+  }
+  .nav-link:hover{
+    color: #5f1bff;
+    transition: 0.5s;
+  }
+}
+
+
+article{
+  p{
+    line-height: 2em;
+    text-align: justify;
+  }
+
+  h1,h2,h3{
+    color: #283277;
+    margin-top: 1em;
+  }
+
+  h2{
+    font-size: 26px;
+  }
+  h3{
+    font-size: 16px;
+  }
+  ul,ol{
+    line-height: 2em;
+  }
+  ol li{
+    margin-bottom: 3em;
+  }
+  a{
+    text-decoration: none;
+  }
+}
+
+.card{
+  margin: 20px 0;
+  padding: 20px;
+}
+
+footer{
+  background-color: #293277;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}

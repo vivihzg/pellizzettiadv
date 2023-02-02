@@ -7,65 +7,113 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Pellizzetti Advocacia</title>
+    <!-- arquivo bootstrap -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+
+    <!-- css -->
     <link rel="stylesheet" href="/assets/css/styles.css">
+    <!-- normalize -->
     <link rel="stylesheet" href="/assets/normalize.css/normalize.css">
+    <!-- icon -->
     <link rel="stylesheet" href="/assets/fontawesome/css/all.min.css">
 
   </head>
 
 
-<body><div class="container">
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-          <a class="navbar-brand" href="/">Pellizzetti Advocacia <span class="sr-only">(Página atual)</span></a>
+<body>
+<header class="container-fluid">
+  <section class="container">
+    <nav class="row">
 
-            <button class="navbar-toggler"
-            type="button"
-            data-toggle="collapse"
-            data-target="#navbarNavAltMarkup"
-            aria-controls="navbarNavAltMarkup"
-            aria-expanded="false"
-            aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-            </button>
-          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav">
+      <!-- Contato e sobre -->
+      <a class="col-md-2 navbar-brand" href="/">Pellizzetti Advocacia</a>
+        <ul class="col-md-7 nav">
+          <li class="nav-item">
+            <a class="nav-link" href="/advogado-previdenciario-cascavel/">História</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://wa.me/5545991313858" target="_blank">
+              <i class="fa-brands fa-whatsapp"></i> (45) 991331-3858
+           </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href href="tel:+55453035-5898">
+              <i class="fa-solid fa-phone"></i> (45) 3035-5898
+           </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href href="mailto:contato@pellizzetti.adv.br" target="_blank">
+              <i class="fa-solid fa-envelope"></i> contato@pellizzetti.adv.br</i>
+             </a>
+          </li>
+        </ul>
 
-              <a class="nav-item nav-link" href="/advogado-previdenciario-cascavel/">
-                História
-              </a>
-              <a href="https://wa.me/5545991313858" class="nav-item nav-link" target="_blank">
-                <i class="fa-brands fa-whatsapp"></i> (45) 991331-3858
-              </a>
+        <!-- Redes Sociais e local -->
+        <ul class="nav col-md-3 rede-sociais">
+          <li class="nav-item">
+            <a class="nav-link" href href="https://www.facebook.com/lztadv"  target="_blank">
+              <i class="fa-brands fa-facebook"></i>
+          </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href href="https://br.linkedin.com/in/bruno-pellizzetti-80852a97" target="_blank">
+              <i class="fa-brands fa-linkedin"></i>
+          </a>
+          </li>
+          <li>
+            <a class="nav-link" href href="https://www.instagram.com/lztadv/" target="_blank">
+              <i class="fa-brands fa-square-instagram"></i>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href href="https://ul.waze.com/ul?place=ChIJGXJVEhLU85QRHVB2WuhJzZo&ll=-24.95456900%2C-53.45964500&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location" target="_blank">
+              <i class="fa-solid fa-location-dot"></i>
+            </a>
+          </li>
+        </ul>
 
-              <a href="tel:+55453035-5898" class="nav-item nav-link">
-                <i class="fa-solid fa-phone"></i> (45) 3035-5898
-              </a>
-              <a href="mailto:contato@pellizzetti.adv.br" class="nav-item nav-link" target="_blank">
-                <i class="fa-solid fa-envelope"></i> contato@pellizzetti.adv.br</i>
-              </a>
-              <a href="https://www.facebook.com/lztadv" class="nav-item nav-link" target="_blank">
-                <i class="fa-brands fa-facebook"></i>
-              </a>
-              <a href="https://br.linkedin.com/in/bruno-pellizzetti-80852a97" class="nav-item nav-link" target="_blank">
-                <i class="fa-brands fa-linkedin"></i>
-              </a>
-              <a href="https://www.instagram.com/lztadv/" class="nav-item nav-link" target="_blank">
-                <i class="fa-brands fa-instagram"></i>
-              </a>
-              <a href="https://ul.waze.com/ul?place=ChIJGXJVEhLU85QRHVB2WuhJzZo&ll=-24.95456900%2C-53.45964500&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location" target="_blank" class="nav-item nav-link">
-                <i class="fa-solid fa-location-dot"></i>
-              </a>
-            </div> <!--nav -->
-          </div> <!--collapse -->
-        </nav>
-          <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
-      </header>
+    </nav>
+  </section>
+
+  <!-- menu para celulares
+  <nav class="reponsivo container-fluid">
+    <section class="container">
+      <ul class="nav row">
+        <li class="nav-item col-md-2">
+          icon do menu
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+          </svg>
+          menu
+            <ul nav flex-column>
+              <li class="nav-item">
+                <a href="https://wa.me/5545991313858">WhatsAap</a>
+              </li>
+
+              <li class="nav-item">
+                <a href="tel:+55453035-5898">Telefone</a>
+              </li>
+
+              <li class="nav-item">
+                <a href="mailto:contato@pellizzetti.adv.br">Email</a>
+              </li>
+
+              <li class="nav-item">
+                <a href="https://ul.waze.com/ul?place=ChIJGXJVEhLU85QRHVB2WuhJzZo&ll=-24.95456900%2C-53.45964500&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location">Local</a>
+              </li>
+            </ul>
+        </li>
+      </ul>
+
+
+    </section>
+  </nav> -->
+</header>
 <main>
-      <article>
-
+      <article class="container">
+        <!-- post blog -->
           
 
           <h2><a href="/2023/01/31/blog.html">Blog</a></h2>
@@ -74,7 +122,10 @@
       </article>
 
 
-    </main>  <article>
+    </main>
+
+
+    <article>
    <p>Para quem já está próximo de receber a aposentadoria, seja por idade ou período de contribuição, qualquer tempo de trabalho que possa ser contabilizado ajuda e muito!
 
     Por isso esse texto abordará um assunto que poucos tem conhecimento.
@@ -174,6 +225,19 @@
   </p>
 
 </article>
+<footer class="container-fluid">
+  <section class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <small>
+          2023 &copy Pellizzetti Advocacia. Todos os direitos reservados
+        </small>
+      </div>
+    </div>
+  </section>
+</footer>
+<!-- arquivo bootstrap -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
 
 </body>
 </html>
