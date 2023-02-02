@@ -11,11 +11,10 @@
     <main>
       <article class="container">
         <!-- post blog -->
-          {% for post in site.posts %}
 
-          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          {%- include article.html -%}
 
-        {% endfor %}
+
       </article>
 
 

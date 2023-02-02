@@ -11657,6 +11657,9 @@ header .nav-link {
   color: white;
   text-decoration: none;
 }
+header .nav-link {
+  text-align: center;
+}
 header .nav-link:hover {
   color: #5f1bff;
   transition: 0.5s;
@@ -11679,19 +11682,17 @@ article h3, article .h3 {
 article ul, article ol {
   line-height: 2em;
 }
-article ol li {
-  margin-bottom: 3em;
-}
 article a {
   text-decoration: none;
 }
 
 .card {
-  margin: 20px 0;
   padding: 20px;
 }
 
 footer {
+  bottom: 0;
+  left: 0;
   background-color: #293277;
   color: white;
   text-align: center;
