@@ -8,20 +8,22 @@
   {%- include header.html -%}
 
 
-    <main>
-      <article class="container">
-        <!-- post blog -->
+    {% for post in site.posts %}
 
-          {%- include article.html -%}
+  <section class="container">
+    <div class="row">
+      <div class="col-md-8 col-sm-12">
+        <article class="card " style="margin-bottom: 20px; margin-top: 20px;">
 
-
-      </article>
-
-
-    </main>
-
-
-  {{ content }}
+          <a href="{{ post.url }}">{{ post.title }}</a>
+            <p>{{post.content | strip_html | truncate: 400}}</p>
+        </article>
+      </div>
+    </div>
+  </section>
+    {% endfor %}
+    
+    {{ content }}
 
   {%- include footer.html -%}
   <!-- arquivo bootstrap -->
