@@ -4,3 +4,7 @@ title: "Pellizzetti Advocacia" # the name of your site, e.g. ACME Corp.
 
 sass:
   sass_dir: _sass
+
+
+# Google Analytics
+google_analytics: UA-93058555-1

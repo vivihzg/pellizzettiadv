@@ -11630,7 +11630,7 @@ body {
   text-align: justify;
   font-size: 17px;
 }
-.page-main h1, .page-main .h1 {
+.page-main h1, .page-main .h1, .page-main h2, .page-main .h2 {
   margin-top: 1em;
   color: #283277;
 }
@@ -11645,7 +11645,7 @@ header .navbar-brand {
   padding: 0;
 }
 header .navbar-brand:hover {
-  color: #5f1bff;
+  color: #283277;
   transition: 0.5s;
 }
 header .nav-link {
@@ -11656,7 +11656,7 @@ header .nav-link {
   text-align: center;
 }
 header .nav-link:hover {
-  color: #5f1bff;
+  color: #283277;
   transition: 0.5s;
 }
 
