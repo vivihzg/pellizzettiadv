@@ -212,69 +212,46 @@
   <a id="cookie-notice-deny" class="btn btn-primary btn-sm">Negar</a>
   <a href="/politica-de-privacidade/" class="btn btn-primary btn-sm">Política de Privacidade</a></div>
 <script>
-  function createCookie(name,value,days) {
-      var expires = "";
-      if (days) {
-          var date = new Date();
-          date.setTime(date.getTime() + (days*24*60*60*1000));
-          expires = "; expires=" + date.toUTCString();
-      }
-      document.cookie = name + "=" + value + expires + "; path=/";
-  }
-  function readCookie(name) {
-      var nameEQ = name + "=";
-      var ca = document.cookie.split(';');
-      for(var i=0;i < ca.length;i++) {
-          var c = ca[i];
-          while (c.charAt(0)==' ') c = c.substring(1,c.length);
-          if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-      }
-      return null;
-  }
-  function eraseCookie(name) {
-      createCookie(name,"",-1);
-  }
+   function createCookie(name,value,days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days*24*60*60*1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        createCookie(name,"",-1);
+    }
 
-  if(readCookie('cookie-notice-option')=='true') {
-      
-          /*Esta função carregará o script e chamará o callback assim que o script for carregado*/
+    if(readCookie('cookie-notice-option')=='true') {
+        
+    } else if (readCookie('cookie-notice-option')!='false'){
+        document.getElementById('cookie-notice').style.display = 'block';
+    }
 
-function loadScriptAsync(scriptSrc, callback) {
-  if (typeof callback !== 'function') {
-      throw new Error('Not a valid callback for async script load');
-  }
-  var script = document.createElement('script');
-  script.onload = callback;
-  script.src = scriptSrc;
-  document.head.appendChild(script);
-}
+    document.getElementById('cookie-notice-accept').addEventListener("click",function() {
+        createCookie('cookie-notice-option','true',31);
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    });
 
-/*Esta é a parte em que você chama a função definida acima e "chama de volta" seu código que é executado após o carregamento do script */
-
-loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=UA-93058555-1', function () {
-  window.dataLayer = window.dataLayer || [];
-  function gtag() { dataLayer.push(arguments); }
-  gtag('js', new Date());
-  gtag('config', 'UA-93058555-1', { 'anonymize_ip': true });
-})
-
-      
-  } else if (readCookie('cookie-notice-option')!='false'){
-      document.getElementById('cookie-notice').style.display = 'block';
-  }
-
-  document.getElementById('cookie-notice-accept').addEventListener("click",function() {
-      createCookie('cookie-notice-option','true',31);
-      document.getElementById('cookie-notice').style.display = 'none';
-      location.reload();
-  });
-
-  document.getElementById('cookie-notice-deny').addEventListener("click",function() {
-      createCookie('cookie-notice-option','false',31);
-      document.getElementById('cookie-notice').style.display = 'none';
-      location.reload();
-  });
-
+    document.getElementById('cookie-notice-deny').addEventListener("click",function() {
+        createCookie('cookie-notice-option','false',31);
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    });
 </script>
 
 
