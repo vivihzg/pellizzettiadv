@@ -1,14 +1,15 @@
 header{
   background-color: #2e2e2d;
-  padding: 20px;
+  padding: 25px;
 
   .navbar-brand{
-    font-size: 20px;
+    font-size: 22px;
     color: white;
     padding: 0;
+    text-align: center;
   }
   .navbar-brand:hover{
-    color: #283277;
+    color: #2167ff;
     transition: 0.5s;
   }
   .nav-link{
@@ -18,17 +19,22 @@ header{
   }
   .nav-link{
     text-align: center;
+    font-size: 18px;
   }
   .nav-link:hover{
-    color: #283277;
+    color: #2167ff;
     transition: 0.5s;
   }
 }
 
 .paginas, article{
+  p:first-of-type {
+    margin-top: 1em;
+  }
   p{
-    line-height: 2em;
+    line-height: 1.8em;
     text-align: justify;
+    font-size: 22px;
   }
 
   h1,h2,h3{
@@ -36,14 +42,20 @@ header{
     margin-top: 1em;
   }
 
+  h1{
+    font-size: 32px;
+  }
+
   h2{
     font-size: 26px;
   }
   h3{
-    font-size: 16px;
+    font-size: 18px;
   }
   ul,ol{
-    line-height: 2em;
+    line-height: 1.8em;
+    font-size: 22px;
+    padding-left: 0;
   }
 
   a{
@@ -52,15 +64,43 @@ header{
 }
 
 .card{
-
-  padding: 20px;
+  border: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 footer{
-  bottom:0;
-  left:0;
-  background-color: #293277;
   color: white;
+  background-color: #2e2e2d;
+  padding: 0;
+  margin-top: 3em;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 0 0px rgba(0, 0, 0, 0.2);
+
+.footer-end, .footer-contact{
+  margin: .4em 0;
+}
+.footer-ende{
+  margin-top: 1em;
+}
+
+.nav-social{
+  list-style: none;
+  padding: 0;
+  }
+.nav-social i{
+  background-color: #3b3b3b;
+  font-size: 15px;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
   text-align: center;
-  padding: 10px 0;
+  line-height: 35px;
+  }
+  .footer-copy{
+    text-align: center;
+  }
+  li{
+    display: inline-block;
+  }
 }

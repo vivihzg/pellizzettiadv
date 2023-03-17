@@ -7,14 +7,15 @@
 <body>
   {%- include header.html -%}
 
-  <div class="container paginas">
+  <div class="container page-main">
     <div class="row">
       <div class="col-md-8">
- {{ content }}
 
+        {{ content }}
+
+      </div>
     </div>
   </div>
-</div> <!-- container -->
   {%- include footer.html -%}
 
   {% include cookie-consent.html %}

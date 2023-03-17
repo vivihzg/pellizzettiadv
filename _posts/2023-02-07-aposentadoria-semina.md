@@ -4,11 +4,8 @@ layout: post
 permalink: /aposentadoria-periodo-como-seminarista-e-valido/
 ---
 
-<section class="container paginas">
-  <div class="row">
-    <div class="col-md-8">
 
-<p>Para quem já está próximo de receber a aposentadoria, seja por idade ou período de contribuição, qualquer tempo de trabalho que possa ser contabilizado ajuda e muito!
+Para quem já está próximo de receber a aposentadoria, seja por idade ou período de contribuição, qualquer tempo de trabalho que possa ser contabilizado ajuda e muito!
 
   Por isso esse texto abordará um assunto que poucos tem conhecimento.
 
@@ -21,9 +18,9 @@ permalink: /aposentadoria-periodo-como-seminarista-e-valido/
   Processos judiciais geralmente são longos e cansativos.
 
   Por isso, caso tenha sido seminarista, tente contabilizar o período o mais rápido possível porque é muito provável que o INSS recorra junto aos meios legais.
-</p>
-  <h1>Aposentadoria: Período como seminarista é válido!</h1>
-<p>
+
+# Aposentadoria: Período como seminarista é válido!
+
   Para quem já está próximo de receber a aposentadoria, seja por idade ou período de contribuição, qualquer tempo de trabalho que possa ser contabilizado ajuda e muito!
 
   Por isso esse texto abordará um assunto que poucos tem conhecimento.
@@ -37,20 +34,20 @@ permalink: /aposentadoria-periodo-como-seminarista-e-valido/
   Processos judiciais geralmente são longos e cansativos.
 
   Por isso, caso tenha sido seminarista, tente contabilizar o período o mais rápido possível porque é muito provável que o INSS recorra junto aos meios legais.
-</p>
 
-  <h2>De quem é a responsabilidade pelo recolhimento da contribuição?</h2>
 
-<p>
+## De quem é a responsabilidade pelo recolhimento da contribuição?
+
+
   O seminário tem como objetivo ensinar o seu ministério através do trabalho e estudo.
 
   Por isso, é a instituição que tem a obrigação pelo recolhimento da sua contribuição, mesmo que não tenham pago nada ao INSS.
 
   Os seminaristas, em sua maioria, não recebem salário e trabalham para poder receber os serviços proporcionados pelo seminário, como alimentação, moradia, estudo e trabalho doméstico.
-</p>
-  <h2>Como comprovar o tempo na aposentadoria?</h2>
 
-<p>
+## Como comprovar o tempo na aposentadoria?
+
+
   Primeiramente, para conseguir sucesso no processo, é necessário comprovar o tempo no seminário.
 
   Para isso, documentos da época, fotos, testemunhos de colegas seminaristas e, principalmente, uma certidão narrativa que declara a sua vinculação ao seminário.
@@ -58,26 +55,28 @@ permalink: /aposentadoria-periodo-como-seminarista-e-valido/
   Além disso, é necessário que o documento defina quais eram as atividades feitas, com salário direto ou <a href="https://geovanisantos.jusbrasil.com.br/noticias/348780520/o-que-e-salario-in-natura" target="_blank">in natura.</a>
 
   Então, com todos os documentos prontos, o requerimento deve ser feito junto ao INSS para que o tempo seja reconhecido, caso contrário, os meios legais devem ser acionados.
-</p>
-  <h2>Veja 2 casos práticos para sua aposentadoria</h2>
-<p>
+
+## Veja 2 casos práticos para sua aposentadoria
+
   Como já foi dito, é complicado que o INSS aceite o tempo como seminarista na aposentadoria.
 
   Por isso, separamos dois casos em que a justiça negou o recurso apresentado e determinou que o período deveria ser acrescido.
 
-<h3> <strong>• Leoni Jacob Becker, 2006</strong></h3>
-  Leoni Jacob Becker fez o pedido para que o seu tempo como noviça fosse aceito como contribuição.
+
+### **• Leoni Jacob Becker, 2006**
+
+Leoni Jacob Becker fez o pedido para que o seu tempo como noviça fosse aceito como contribuição.
 
   O entendimento do Tribunal Regional Federal da 4ª Região (TRF) foi de que o período em que Leoni esteve na vida religiosa deveria ser considerado pelo INSS para fins previdenciários.
 
   Contudo, o INSS recorreu da decisão do órgão junto a Quinta Turma do Superior Tribunal de Justiça (STJ).
 
   O STJ negou o recurso contra a decisão do TRF, tornando obrigatório que o período fosse contabilizado.
-</p>
 
-  <h3> <strong>• Valdivino Euri Salvador, 2012</strong></h3>
 
-<p>Em 2012, o TNU (Turma Nacional de Uniformização dos Juizados Especiais Federais) decidiu reconhecer que o tempo como seminarista poderia ser acrescido ao período de contribuição junto ao INSS.
+### **• Valdivino Euri Salvador, 2012**
+
+Em 2012, o TNU (Turma Nacional de Uniformização dos Juizados Especiais Federais) decidiu reconhecer que o tempo como seminarista poderia ser acrescido ao período de contribuição junto ao INSS.
 
   Com a decisão, eles determinaram que, para fins previdenciários, os mesmos requisitos exigidos para um aluno-aprendiz de escola pública profissionalizante deveriam ser considerados no caso.
 
@@ -92,11 +91,11 @@ permalink: /aposentadoria-periodo-como-seminarista-e-valido/
   Ou seja, ele não recebia em dinheiro, era remunerado com moradia, material escolar e alimentação.
 
   Então, quando o INSS analisou o pedido de aposentadoria, teve que considerar o período em que Valdivino foi seminarista.
-</p>
 
-  <h2>Conclusão</h2>
 
-<p> Por isso é necessário ficar atento as atualizações da Previdência Social para que não se perca nenhum benefício.
+## Conclusão
+
+ Por isso é necessário ficar atento as atualizações da Previdência Social para que não se perca nenhum benefício.
 
   É bom ficar atento para que o segurado não seja prejudicado em seu tempo de contribuição ou valores pagos.
 
@@ -109,7 +108,3 @@ permalink: /aposentadoria-periodo-como-seminarista-e-valido/
   Isso torna essencial o conhecimento dos direitos previdenciários por parte do aposentado.
 
   Portanto, leia o conteúdo e fique mais atento as modificações que a previdência sofre para que o seu direito prevaleça.
-</p>
-    </div>
-  </div>
-</section>
