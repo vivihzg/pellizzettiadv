@@ -1,7 +1,7 @@
 ---
-title: Planejamento e Estruração - SEO
+title: Guia completo para encontrar um Advogado Previdenciário confiável em 2023
 layout: post
-permalink: /planejamento-e-estruração/
+permalink: /guia-completo-para-encontrar-um-advogado-previdenciário-confiável-em-2023/
 ---
 
 # Guia completo para encontrar um Advogado Previdenciário confiável em 2023
