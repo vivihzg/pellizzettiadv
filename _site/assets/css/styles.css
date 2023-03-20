@@ -10078,7 +10078,8 @@ body {
   text-decoration: none; }
 
 .profile {
-  background-color: #F9F5E7;
+  background-color: #faf9f6;
+  border-radius: 10px;
   text-align: center; }
 
 header {
