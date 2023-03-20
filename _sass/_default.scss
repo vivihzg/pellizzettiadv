@@ -1,6 +1,7 @@
 header{
   background-color: #2e2e2d;
   padding: 25px;
+  margin-bottom: 4em;
 
   .navbar-brand{
     font-size: 22px;
@@ -9,7 +10,7 @@ header{
     text-align: center;
   }
   .navbar-brand:hover{
-    color: #2167ff;
+    color: #0d6efd;
     transition: 0.5s;
   }
   .nav-link{
@@ -22,12 +23,12 @@ header{
     font-size: 18px;
   }
   .nav-link:hover{
-    color: #2167ff;
+    color: #0d6efd;
     transition: 0.5s;
   }
 }
 
-.paginas, article{
+.post, article{
   p:first-of-type {
     margin-top: 1em;
   }
@@ -55,7 +56,7 @@ header{
   ul,ol{
     line-height: 1.8em;
     font-size: 22px;
-    padding-left: 0;
+    padding-left: 24px;
   }
 
   a{
@@ -71,18 +72,12 @@ header{
 footer{
   color: white;
   background-color: #2e2e2d;
-  padding: 0;
+  padding: 10px;
   margin-top: 3em;
   bottom: 0;
   left: 0;
   box-shadow: 0 0 0px rgba(0, 0, 0, 0.2);
 
-.footer-end, .footer-contact{
-  margin: .4em 0;
-}
-.footer-ende{
-  margin-top: 1em;
-}
 
 .nav-social{
   list-style: none;
@@ -97,10 +92,10 @@ footer{
   text-align: center;
   line-height: 35px;
   }
-  .footer-copy{
-    text-align: center;
-  }
   li{
     display: inline-block;
+  }
+  .footer-copy{
+    text-align: center;
   }
 }
