@@ -12,6 +12,13 @@ No entanto, é comum que erros ocorram no momento de preenchimento e pagamento d
 
 Neste artigo, vamos apresentar um guia completo sobre como corrigir a Guia de Previdência Social, evitando problemas com o INSS e garantindo seus direitos previdenciários.
 
+## Confira nosso vídeo no Youtube
+<div class="moldura">
+<div class="video">
+<iframe src="https://www.youtube.com/embed/JhOH-NcqIm0?start=1"></iframe>
+</div>
+</div>
+
 ## O que é a guia da previdência social e por que é importante preenchê-la corretamente?
 
 Antes de falarmos sobre como corrigir a guia de previdência social, é fundamental entender o que é esse documento e qual a sua importância.
