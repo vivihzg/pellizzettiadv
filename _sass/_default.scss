@@ -1,29 +1,26 @@
 header{
-  background-color: #2e2e2d;
+  background-color: #2E2E2D;
   padding: 25px;
   margin-bottom: 4em;
 
   .navbar-brand{
     font-size: 22px;
-    color: white;
+    color: rgb(226, 226, 226);
     padding: 0;
     text-align: center;
   }
   .navbar-brand:hover{
-    color: #0d6efd;
+    color: #0D6EfD;
     transition: 0.5s;
   }
   .nav-link{
-    color: white;
+    color: rgb(226, 226, 226);
     text-decoration: none;
-
-  }
-  .nav-link{
     text-align: center;
     font-size: 18px;
   }
   .nav-link:hover{
-    color: #0d6efd;
+    color: #0D6EfD;
     transition: 0.5s;
   }
 }
@@ -86,7 +83,7 @@ iframe{
 
 footer{
   color: white;
-  background-color: #2e2e2d;
+  background-color: #2E2E2D;
   padding: 10px;
   margin-top: 3em;
   bottom: 0;
@@ -99,7 +96,7 @@ footer{
   padding: 0;
   }
 .nav-social i{
-  background-color: #3b3b3b;
+  background-color: #3B3B3B;
   font-size: 15px;
   width: 35px;
   height: 35px;

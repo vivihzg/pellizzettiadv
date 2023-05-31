@@ -10088,25 +10088,24 @@ body {
   margin-left: 15px; }
 
 header {
-  background-color: #2e2e2d;
+  background-color: #2E2E2D;
   padding: 25px;
   margin-bottom: 4em; }
   header .navbar-brand {
     font-size: 22px;
-    color: white;
+    color: #e2e2e2;
     padding: 0;
     text-align: center; }
   header .navbar-brand:hover {
-    color: #0d6efd;
+    color: #0D6EfD;
     transition: 0.5s; }
   header .nav-link {
-    color: white;
-    text-decoration: none; }
-  header .nav-link {
+    color: #e2e2e2;
+    text-decoration: none;
     text-align: center;
     font-size: 18px; }
   header .nav-link:hover {
-    color: #0d6efd;
+    color: #0D6EfD;
     transition: 0.5s; }
 
 .post p:first-of-type, article p:first-of-type {
@@ -10147,7 +10146,7 @@ header {
 
 footer {
   color: white;
-  background-color: #2e2e2d;
+  background-color: #2E2E2D;
   padding: 10px;
   margin-top: 3em;
   bottom: 0;
@@ -10157,7 +10156,7 @@ footer {
     list-style: none;
     padding: 0; }
   footer .nav-social i {
-    background-color: #3b3b3b;
+    background-color: #3B3B3B;
     font-size: 15px;
     width: 35px;
     height: 35px;

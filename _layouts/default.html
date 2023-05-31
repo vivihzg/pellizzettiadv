@@ -17,7 +17,7 @@
         <div class="col-md-10">
           <article class="card" style="margin-bottom: 20px; margin-top: 20px; padding: 20px;">
 
-            <a href="{{ post.url }}" style="font-size: 21px;">{{ post.title }}</a>
+            <a href="{{ post.url }}" style="font-size: 21px; color: #0D6EfD;">{{ post.title }}</a>
             <p>{{post.content | strip_html | truncate: 300}}</p>
           </article>
         </div> <!--  col -->
@@ -28,7 +28,7 @@
     </div>
         {%- include footer.html -%}
 
-  {% include cookie-consent.html %}
+  <!-- {% include cookie-consent.html %} -->
   <!-- arquivo bootstrap -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
 
