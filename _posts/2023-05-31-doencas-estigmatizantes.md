@@ -54,3 +54,10 @@ Para provar a estigmatização, também não existe uma fórmula única, é prec
 O principal fundamento da jurisprudência é o Pedido de Uniformização da Turma Nacional, Nº 0512288-77.2017.4.05.8300/PE em que diversos pontos são abordados sobre as doenças estigmatizantes, entre eles admite entre as doenças o HIV, Lúpus, Síndrome de Marfan, Hanseníase, Câncer de Pele, Doenças Psiquiátricas,
 
 No entendimento, firmou-se que: devem ser avaliadas as condições pessoais, sociais, econômicas e culturais de cada individuo em razão da estigmatização, caso se verificar que não haverá possibilidade de reinserção no mercado de trabalho, mesmo após hipotética reconversão laboral, o segurado deve ser aposentado por invalidez.
+
+## Confira nosso vídeo no Youtube
+<div class="moldura">
+<div class="video">
+<iframe src="https://www.youtube.com/embed/jxbFMjRa1J4"></iframe>
+</div>
+</div>
