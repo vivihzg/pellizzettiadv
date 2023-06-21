@@ -2,6 +2,7 @@
 title: Doenças Estigmatizantes no Aspecto Previdenciário
 layout: post
 permalink: /doencas-estigmatizantes-no-aspecto-previdenciario/
+description: "O primeiro passo para entendermos este conceito de doença estigmatizante é entender: O que é um estigma? Como isso pode me afetar ou afetar alguém a ponto de se tornar uma estigmatização."
 ---
 # Doenças Estigmatizantes no Aspecto Previdenciário
 

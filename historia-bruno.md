@@ -2,6 +2,7 @@
 layout: page
 title: Hitória Bruno Pellizzetti
 permalink: /advogado-previdenciario-cascavel/
+description: "Toda a tragetória de Bruno Pellizzetti"
 ---
 
 Após uma vida de trabalho duro ou quando estão sofrendo com uma grave doença nossos clientes buscam confiança e seriedade. Com o tempo, formamos uma relação que dura muito mais do que o tempo do processo, mas uma amizade que segue por toda a vida, quando nossos antigos clientes recomendam nosso escritório em Cascavel para seus amigos e familiares, sabemos que o trabalho foi bem feito.

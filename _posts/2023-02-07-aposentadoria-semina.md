@@ -2,6 +2,7 @@
 title: "Aposentadoria: Período como seminarista é válido!"
 layout: post
 permalink: /aposentadoria-periodo-como-seminarista-e-valido/
+description: "Descubra como o período como seminarista pode ser válido para a aposentadoria. Este texto aborda a possibilidade de contabilizar o tempo de serviço religioso, destacando a importância de estar informado sobre os requisitos e documentos necessários para comprovação."
 ---
 
 

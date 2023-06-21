@@ -2,6 +2,8 @@
 title: "Minha esposa não conseguiu a Aposentadoria Rural, corro o mesmo risco?"
 layout: post
 permalink: /minha-esposa-nao-conseguiu-a-aposentadoria-rural-corro-o-mesmo-risco/
+description: "Dificuldades na obtenção da Aposentadoria Rural: Como lidar com indeferimentos e reunir provas necessárias."
+tags: aposentadoria rural, inss, provas, dificuldade.
 ---
 
 # Minha esposa não conseguiu a Aposentadoria Rural, corro o mesmo risco?

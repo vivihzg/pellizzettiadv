@@ -2,6 +2,7 @@
 title: Guia completo para encontrar um Advogado Previdenciário confiável em 2023
 layout: post
 permalink: /guia-completo-para-encontrar-um-advogado-previdenciário-confiável-em-2023/
+description: "Como encontrar um advogado previdenciário confiável em 2023, os benefícios de sua contratação, quando pode não ser necessário, e os valores cobrados"
 ---
 
 # Guia completo para encontrar um Advogado Previdenciário confiável em 2023

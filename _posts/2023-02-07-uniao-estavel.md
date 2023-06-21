@@ -2,6 +2,7 @@
 title: Provas de união estável
 layout: post
 permalink: /provas-de-uniao-estavel/
+description: "Provas de união estável documentos que possam comprovar:"
 ---
 
 # Provas de união estável

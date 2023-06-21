@@ -2,6 +2,7 @@
 layout: page
 title: Hitória Bruno Pellizzetti
 permalink: /advogado-civil-cascavel/
+description: "Toda a tragetória de Eduardo Walber"
 ---
 Nasci e cresci em Cascavel – PR. Passei a minha infância no Bairro Santa Cruz, uma região humilde que me ensinou muito sobre as dificuldades que toda família passa.
 
@@ -23,4 +24,4 @@ No decorrer dos anos, também tive experiência com a área do Direito Civil e d
 
 Porém, apesar do contato com outras áreas, sinto que minha grande missão é lutar pelo Direito das pessoas que, após uma longa vida dedicada ao trabalho ou em um momento delicado de suas vidas, merecem estar protegidos para descansar ou para se recuperar dignamente, obtendo o melhor benefício possível.
 
-Em razão desse sentimento, hoje, juntamente com a equipe do nosso escritório, tenho a missão de prover as melhores soluções e estratégias jurídicas possíveis aos nossos clientes, atuando tecnicamente no âmbito do Direito Previdenciário (aposentadorias em geral, auxílios por incapacidade e benefícios assistenciais), tanto na esfera contenciosa, por meio de processos administrativos e judiciais, como também na esfera consultiva e preventiva, realizando planejamentos e análises previdenciárias. 
+Em razão desse sentimento, hoje, juntamente com a equipe do nosso escritório, tenho a missão de prover as melhores soluções e estratégias jurídicas possíveis aos nossos clientes, atuando tecnicamente no âmbito do Direito Previdenciário (aposentadorias em geral, auxílios por incapacidade e benefícios assistenciais), tanto na esfera contenciosa, por meio de processos administrativos e judiciais, como também na esfera consultiva e preventiva, realizando planejamentos e análises previdenciárias.
