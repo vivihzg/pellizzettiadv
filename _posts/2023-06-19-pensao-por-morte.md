@@ -83,6 +83,14 @@ Nestes casos, é importante buscar auxílio tanto do [advogado previdenciarista]
 
 Confira nosso vídeo sobre o tema e entenda exatamente quais passos seguir no aplicativo do Meu Inss para obter o benefício previdenciário de Pensão Por Morte Rural em 2023.
 
+
+<div class="moldura">
+<div class="video">
+<iframe src="https://www.youtube.com/embed/8eF0lnIpSaU"></iframe>
+</div>
+</div>
+
+
 ## Como solicitar a pensão por morte rural
 
 Conforme explicação detalhada no vídeo apresentado, para solicitar a pensão por morte rural pelo site Meu INSS, basta seguir os seguintes passos mencionados. Aqui, fizemos um breve resumo sobre esse passo a passo. Vejamos:
