@@ -36,7 +36,7 @@ tags: aposentadoria bloqueada, inss, bloqueio de benefício, problemas com apose
 
 ## Conclusão
 
-  O processo de prova de vida não é burocrático e é uma medida preventiva. Muitas famílias continuam sacando o benefício mesmo após a morte do aposentado. Quando o benefício é cessado logo depois do falecimento, uma grande economia pode ser atingida. Em 2017, por exemplo, mais de <a href="https://www.gov.br/inss/pt-br" target="_blank">cem mil benefício foram cessados</a>, gerando economia de R$ 1,2 bilhões de reais.
+  O processo de prova de vida não é burocrático e é uma medida preventiva. Muitas famílias continuam sacando o benefício mesmo após a morte do aposentado. Quando o benefício é cessado logo depois do falecimento, uma grande economia pode ser atingida. Em 2017, por exemplo, mais de [cem mil benefício foram cessados](https://www.gov.br/inss/pt-br), gerando economia de R$ 1,2 bilhões de reais.
 
   Portanto, não perca mais tempo. Se você está irregular ou conhece alguém que esteja, avise e compareça o quanto antes até o banco pagador. Se precisar de ajuda com qualquer processo de aposentadoria, é só falar conosco. Estamos sempre dispostos a ajudar!
 
