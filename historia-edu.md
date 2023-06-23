@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hitória Bruno Pellizzetti
+title: Hitória Eduardo Walber
 permalink: /advogado-civil-cascavel/
 description: "Toda a tragetória de Eduardo Walber"
 ---
