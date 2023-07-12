@@ -5,9 +5,9 @@ permalink: /advogado-familia-cascavel/
 description: "Toda a tragetória de Diego Preis"
 ---
 
-# ADVOGADO FAMÍLIA CASCAVEL
+# Advogado Família Cascavel
 
-## ORIGEM – DE ONDE VIM E POR QUE EU ESCOLHI ESTA ÁREA?
+## Origem – de onde vim e por que eu escolhi essa área?
 
 Cabe ao advogado especialista em Direito de Família orientar e assessorar seus clientes em questões jurídicas relacionadas à própria família, buscando soluções adequadas para cada caso.
 
@@ -17,7 +17,7 @@ Foi dentro de casa, que percebi a importância de trabalhar em prol da justiça 
 
 Em resumo, somos frutos de uma relação familiar e nada melhor do que atuar na proteção de todos os envolvidos neste círculo.
 
-## A LUTA NA DEFESA DO DIREITO DO PRÓXIMO
+## A luta na defesa do direito do próximo
 
 O direito familiar deve ser sempre preservado pelo advogado especialista em direito de família.
 
@@ -37,7 +37,7 @@ Outro aspecto importante da advocacia de família é o planejamento familiar, pa
 
 Meu objetivo é ter atenção a todos em todos os cenários, independente de sua condição social e econômica.
 
-## MOTIVAÇÃO
+## Motivação
 
 A maior recompensa do trabalho é ajudar as famílias a solucionarem e vencerem esses momentos difíceis, para que possam novamente florescer e se desenvolver como pessoas individuais, com seus filhos com uma educação e crescimento saudável e possam passar para outras etapas de suas vidas, independente do que seja. Por isso o advogado especialista em família é tão importante e ajuda tanto nos aspectos jurídicos quanto na saúde financeira e mental de seus clientes.
 

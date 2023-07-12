@@ -4,10 +4,15 @@ title: Hitória Eduardo Walber
 permalink: /advogado-civil-cascavel/
 description: "Toda a tragetória de Eduardo Walber"
 ---
+
+# Advogado Cível Cascavel
+
+## Início
 Nasci e cresci em Cascavel – PR. Passei a minha infância no Bairro Santa Cruz, uma região humilde que me ensinou muito sobre as dificuldades que toda família passa.
 
 Diante desse cenário, logo aos 14 anos comecei a ajudar meus pais por meio do meu trabalho, e a realidade difícil me trouxe muita maturidade para focar as minhas energias no estudo.
 
+## Dedicação
 Todo o esforço e dedicação me garantiram a tão sonhada e necessária bolsa de estudos para ingresso na Univel, uma das mais renomadas instituições de ensino do Direito da região.
 
 Durante os cinco anos da graduação continuei trabalhando em período integral, o que tornou a jornada bem mais árdua e me fez sentir na pele todos os obstáculos que a maioria dos estudantes enfrentam em nosso país.
@@ -16,6 +21,7 @@ Ainda assim, jamais perdi o foco ou deixei de lado minhas obrigações acadêmic
 
 Mesmo após a conclusão faculdade, continuei a jornada de estudos, e hoje sou pós-graduado em Direito Civil e Processo Civil pela Univel, e estou cursando duas pós-graduações na área previdenciária.
 
+## Jornada
 Minha trajetória profissional no Direito se iniciou em 2018, quando conheci o advogado – e hoje sócio – Dr. Bruno Pellizzetti, referência em atuação na área previdenciária, a quem admiro e tenho profunda gratidão pelo aprendizado fornecido.
 
 A partir daquele momento, comecei a entender, na prática, a importância do Direito Previdenciário na vida das pessoas, e como eu poderia traduzir aquele sentimento de justiça em ações efetivas em favor dos nossos clientes.
