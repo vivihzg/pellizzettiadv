@@ -1,0 +1,6 @@
+Sitemap: https://www.pellizzetti.adv.br/sitemap.xml
+
+User-agent: *
+Allow: /
+Disallow: /politica-de-privacidade/
+Disallow: /privacy.md/
