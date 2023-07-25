@@ -4,7 +4,6 @@
   <link rel="profile" href="https://gmpg.org/xfn/11">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="viewport" content="width=device-width">
   <meta property="og:locale" content="pt-BR">
   <meta property="og:title" content="Pellizzetti Advocacia">
   <meta property="og:url" content="https://pellizzetti.adv.br">
@@ -112,7 +111,6 @@
   <link rel="profile" href="https://gmpg.org/xfn/11" />
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="viewport" content="width=device-width" />
   <meta property="og:locale" content="pt-BR" />
   <meta property="og:title" content="Pellizzetti Advocacia" />
   <meta property="og:url" content="https://pellizzetti.adv.br" />
@@ -260,49 +258,49 @@
   <a id="cookie-notice-accept" class="btn btn-primary btn-sm">Aprovar</a>
   <a id="cookie-notice-deny" class="btn btn-primary btn-sm">Negar</a>
   <a href="/politica-de-privacidade/" class="btn btn-primary btn-sm">Política de Privacidade</a></div>
-<script>
-   function createCookie(name,value,days) {
-        var expires = "";
-        if (days) {
-            var date = new Date();
-            date.setTime(date.getTime() + (days*24*60*60*1000));
-            expires = "; expires=" + date.toUTCString();
-        }
-        document.cookie = name + "=" + value + expires + "; path=/";
-    }
-    function readCookie(name) {
-        var nameEQ = name + "=";
-        var ca = document.cookie.split(';');
-        for(var i=0;i < ca.length;i++) {
-            var c = ca[i];
-            while (c.charAt(0)==' ') c = c.substring(1,c.length);
-            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-        }
-        return null;
-    }
-    function eraseCookie(name) {
-        createCookie(name,"",-1);
-    }
-
-    if(readCookie('cookie-notice-option')=='true') {
-        
-    } else if (readCookie('cookie-notice-option')!='false'){
-        document.getElementById('cookie-notice').style.display = 'block';
-    }
-
-    document.getElementById('cookie-notice-accept').addEventListener("click",function() {
-        createCookie('cookie-notice-option','true',31);
-        document.getElementById('cookie-notice').style.display = 'none';
-        location.reload();
-    });
-
-    document.getElementById('cookie-notice-deny').addEventListener("click",function() {
-        createCookie('cookie-notice-option','false',31);
-        document.getElementById('cookie-notice').style.display = 'none';
-        location.reload();
-    });
-</script>
-
+  <script>
+    function createCookie(name,value,days) {
+         var expires = "";
+         if (days) {
+             var date = new Date();
+             date.setTime(date.getTime() + (days*24*60*60*1000));
+             expires = "; expires=" + date.toUTCString();
+         }
+         document.cookie = name + "=" + value + expires + "; path=/";
+     }
+     function readCookie(name) {
+         var nameEQ = name + "=";
+         var ca = document.cookie.split(';');
+         for(var i=0;i < ca.length;i++) {
+             var c = ca[i];
+             while (c.charAt(0)==' ') c = c.substring(1,c.length);
+             if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+         }
+         return null;
+     }
+     function eraseCookie(name) {
+         createCookie(name,"",-1);
+     }
+ 
+     if(readCookie('cookie-notice-option')=='true') {
+         
+     } else if (readCookie('cookie-notice-option')!='false'){
+         document.getElementById('cookie-notice').style.display = 'block';
+     }
+ 
+     document.getElementById('cookie-notice-accept').addEventListener("click",function() {
+         createCookie('cookie-notice-option','true',31);
+         document.getElementById('cookie-notice').style.display = 'none';
+         location.reload();
+     });
+ 
+     document.getElementById('cookie-notice-deny').addEventListener("click",function() {
+         createCookie('cookie-notice-option','false',31);
+         document.getElementById('cookie-notice').style.display = 'none';
+         location.reload();
+     });
+ </script>
+ 
 
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
