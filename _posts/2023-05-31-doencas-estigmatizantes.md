@@ -2,7 +2,7 @@
 title: "Aspectos Previdenciários das Doenças Estigmatizadas: Desafios e Soluções"
 layout: post
 permalink: /doencas-estigmatizantes-no-aspecto-previdenciario/
-description: "Explore como as doenças estigmatizadas impactam a previdência social e a vida das pessoas. Compreenda o conceito de estigma, os desafios práticos enfrentados e as implicações jurídicas."
+description: "doenças estigmatizadas impactam a previdência social e a vida das pessoas. Compreenda o conceito de estigma, os desafios práticos enfrentados e as implicações jurídicas."
 ---
 # Doenças Estigmatizantes no Aspecto Previdenciário
 

@@ -5,6 +5,7 @@ permalink: /aposentadoria-bloqueada-saiba-como-proceder/
 description: "O bloqueio da aposentadoria não é um procedimento incomum no INSS. Isso acontece para que não ocorram fraudes. Porém, muitas vezes pessoas que não tem essa intenção acabam sofrendo essa consequência. Neste artigo, vamos explicar o motivo de isso ocorrer e como sair desse problema."
 tags: aposentadoria bloqueada, inss, bloqueio de benefício, problemas com aposentadoria, direito previdenciário.
 ---
+
   O bloqueio da aposentadoria não é um procedimento incomum no INSS. Isso acontece para que não ocorram fraudes. Porém, muitas vezes pessoas que não tem essa intenção acabam sofrendo essa consequência. Neste artigo, vamos explicar o motivo de isso ocorrer e como sair desse problema.
 
 
