@@ -1,7 +1,7 @@
 ---
 title: "Avanços na Perícia Médica do INSS: Telemedicina e Antecipação de Filas Presenciais"
 layout: post
-permalink: /pensao-por-morte-rural-em-2023-saiba-os-criterios-e-como-solicitar/
+permalink: /telemedicina-e-antecipacao-de-filas-presenciais-do-inss/
 description: "Conheça a nova lei para agilizar o atendimento no INSS e reduzir filas. Saiba como funciona e beneficie-se das melhorias"
 ---
 # Avanços na Perícia Médica do INSS: Telemedicina e Antecipação de Filas Presenciais
