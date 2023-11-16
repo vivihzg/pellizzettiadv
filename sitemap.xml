@@ -4,8 +4,6 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
   <loc>https://www.pellizzetti.adv.br/</loc>
@@ -87,6 +85,30 @@
   <lastmod>2023-07-24T17:18:03+00:00</lastmod>
   <priority>0.64</priority>
 </url>
-
+<url>
+  <loc>https://www.pellizzetti.adv.br/decisao-do-tce-pode-salvar-sua-aposentadoria/</loc>
+  <lastmod>2023-11-01T15:40:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.pellizzetti.adv.br/telemedicina-e-antecipacao-de-filas-presenciais-do-inss/</loc>
+  <lastmod>2023-11-16T10:10:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.pellizzetti.adv.br/nova-portaria-2023-auxilio-doenca-prorrogacao/</loc>
+  <lastmod>2023-11-10T9:41:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.pellizzetti.adv.br/direito-adquirido-e-manutencao-do-vinculo-publico/</loc>
+  <lastmod>2023-11-01T15:40:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.pellizzetti.adv.br/tripla-acumulacao-de-beneficio/</loc>
+  <lastmod>2023-07-27T15:41:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
 </urlset>
