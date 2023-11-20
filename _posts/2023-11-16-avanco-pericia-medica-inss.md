@@ -3,6 +3,7 @@ title: "Avanços na Perícia Médica do INSS: Telemedicina e Antecipação de Fi
 layout: post
 permalink: /telemedicina-e-antecipacao-de-filas-presenciais-do-inss/
 description: "Conheça a nova lei para agilizar o atendimento no INSS e reduzir filas. Saiba como funciona e beneficie-se das melhorias"
+tags: INSS, Telemedicina, Perícia Médica, Benefícios por Incapacidade, Auxílio Doença, Aposentadoria por Invalidez, LOAS, BPC, Aposentadoria por Deficiência, Revisão de Benefícios
 ---
 # Avanços na Perícia Médica do INSS: Telemedicina e Antecipação de Filas Presenciais
 

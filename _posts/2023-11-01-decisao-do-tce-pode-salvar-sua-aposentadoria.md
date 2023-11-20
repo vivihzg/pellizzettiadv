@@ -1,8 +1,9 @@
 ﻿---
-title: "Decisão do TCE do Paraná Pode Salvar sua Aposentadoria por Integralidade e Paridade"
+title: "Decisão do TCE Redefine Marco Temporal da Aposentadoria do Servidor Público Paranaense para Regras de Transição Antigas"
 layout: post
 permalink: /decisao-do-tce-pode-salvar-sua-aposentadoria/
-description: "Importante decisão do TCE pode salvar aposentadoria por regras de transição do servidor público parananese e obter integralidade e paridade"
+description: "Entenda como a decisão do TCE-PR sobre a Reforma da Previdência no Paraná afeta a aposentadoria de servidores públicos. Análise das ECs n° 103/2019, EC PR n° 45/2019 e LC PR n° 233/2021."
+tags: aposentadoria, reforma-da-previdencia, servidores-publicos, tribunal-de-contas, marco-temporal
 ---
 
 # Decisão do TCE Redefine Marco Temporal da Aposentadoria do Servidor Público Paranaense para Regras de Transição Antigas

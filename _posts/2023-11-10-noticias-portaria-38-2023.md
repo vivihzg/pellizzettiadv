@@ -3,6 +3,7 @@ title: "Nova portaria 38 de 2023 Auxílio Doença - Incapacidade Temporária"
 layout: post
 permalink: /nova-portaria-2023-auxilio-doenca-prorrogacao/
 description: "Nova portaria do INSS é benéfica aos segurados que recebem benefício por incapacidade!"
+tags: INSS, Auxílio Doença, Benefício por Incapacidade, Prorrogação, Portaria 38/2023
 ---
 
 # Nova portaria do INSS é benéfica aos segurados que recebem benefício por incapacidade!

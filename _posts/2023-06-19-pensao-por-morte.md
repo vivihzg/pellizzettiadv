@@ -3,6 +3,7 @@ title: "Pensão por morte rural em 2023: saiba os critérios e como solicitar"
 layout: post
 permalink: /pensao-por-morte-rural-em-2023-saiba-os-criterios-e-como-solicitar/
 description: "Passo a passo de como solicitar a pensão por morte rural, de forma rápida e gratuita."
+tags: Pensão por Morte, Benefício Previdenciário, Segurado Especial, INSS, Requerimento de Benefício, Documentação Previdenciária, Dependência Econômica, Advogado Previdenciário, Direitos Previdenciários, Família e Previdência
 ---
 
 # Pensão por morte rural em 2023: saiba os critérios e como solicitar
@@ -86,7 +87,7 @@ Confira nosso vídeo sobre o tema e entenda exatamente quais passos seguir no ap
 
 <div class="moldura">
 <div class="video">
-<iframe src="https://www.youtube.com/embed/8eF0lnIpSaU"></iframe>
+<iframe src="https://www.youtube.com/embed/8eF0lnIpSaU?si=CmCxTlIv2aP8O9EU"></iframe>
 </div>
 </div>
 
