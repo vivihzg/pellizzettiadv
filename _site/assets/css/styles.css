@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*!
  * Bootstrap  v5.3.0-alpha1 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
@@ -10143,6 +10144,14 @@ header {
     width: 100%;
     height: 100%;
     border-radius: 2em; }
+
+.imagem img {
+  max-width: 100%;
+  /* Ajusta a largura máxima para garantir responsividade */
+  height: 900px;
+  /* Define a altura desejada */
+  width: auto;
+  /* Mantém a proporção original */ }
 
 table {
   width: 100%;

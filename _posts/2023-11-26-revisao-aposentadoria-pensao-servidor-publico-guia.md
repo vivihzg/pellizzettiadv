@@ -117,8 +117,7 @@ Para decidir a melhor maneira de dar início ao pedido de revisão da aposentado
 
 Para entender melhor, consulte nosso vídeo no YouTube sobre o tema:
 
-[<img src="https://img.youtube.com/vi/FVgsy8N06PU/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/FVgsy8N06PU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FVgsy8N06PU?si=JGWP7zROjIL9NW88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Outro fator a ser analisado, antes mesmo de todos os anteriores, é se ainda há prazo para solicitar a revisão do benefício previdenciário. Conheça os prazos a seguir.
 
@@ -170,16 +169,14 @@ O tempo de **permanência do processo** no órgão julgador não deverá passar 
 
 O prazo de **cumprimento das decisões é de 120 dias**, contados da data do recebimento do processo na origem.
 
-![No infográfico a seguir, ilustramos como funciona esse processo.](https://lztforeferfiles.s3.us-west-2.amazonaws.com/Infoprev.png)
+<div class="imagem">
+
+  <img src="https://lztforeferfiles.s3.us-west-2.amazonaws.com/Infoprev.png" alt="No infográfico a seguir, ilustramos como funciona esse processo.">
+
+</div>
 
 ## Conclusão
 
 Neste texto, buscamos explicar os detalhes sobre a revisão de aposentadoria do servidor público paranaense e seus prazos e funcionamento do processo de recurso administrativo, no âmbito da Paranaprevidência.
 
 Nós somos especialistas no assunto, se você tem dúvidas e quer falar conosco, entre em contato, será um prazer atendê-lo. Siga-nos nas redes sociais para estar sempre atualizado sobre seus direitos.
-
-
-
-
-
-

@@ -78,6 +78,13 @@ iframe{
 }
 }
 
+.imagem img{
+    max-width: 100%; /* Ajusta a largura máxima para garantir responsividade */
+    height: 900px; /* Define a altura desejada */
+    width: auto; /* Mantém a proporção original */
+}
+
+
 table{
   width: 100%;
   border: rgb(218, 218, 218) solid 1px;
