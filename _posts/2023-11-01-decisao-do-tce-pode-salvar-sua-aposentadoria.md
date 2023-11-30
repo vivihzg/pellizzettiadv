@@ -50,10 +50,7 @@ O grande problema é que a EC PR n° 45/2019 não regulamentou todos os seus dis
 
 Com isso, uma dúvida muito importante surgiu: até quando, de fato, valeriam as regras de trasição das EC n° 41/2003 e 47/2005? Até a data da EC PR n° 45/2019 (04/12/2019) ou até a edição da LC PR n° 233/2021, em 10/03/2021?
 
-Foi aí que entrou em cena a consulta e o entendimento do Tribunal de Contas:
-
-INFOGRÁFICO
-
+Foi aí que entrou em cena a consulta e o entendimento do Tribunal de Contas.
 
 ## O que é Marco Temporal para aposentadoria?
 
@@ -94,21 +91,42 @@ Além das regras acima, outros dois importantes marcos temporais são relevantes
 
 ## EMENDAS CONSTITUCIONAIS FEDERAIS n° 41/2003, n° 45/2005 e n° 103/19 e EMENDA CONSTITUCIONAL DO PARANA N° 45/2019
 
-Conforme dito acima, após a primeira grande Reforma (EC n° 20/98) ocorreram novas modificações nas regras com o passar dos anos. Dentre elas, pode-se dizer que as duas mais importantes alterações foram aquelas trazidas pelas EC n° 41/2003 e 47/2005.
+Conforme dito acima, após a primeira grande Reforma (EC n° 20/98) ocorreram novas modificações nas regras com o passar dos anos. 
+
+![Reforma Previdência 1998](https://lztforeferfiles.s3.us-west-2.amazonaws.com/timeline0.png)
+
+
+Dentre elas, pode-se dizer que as duas mais importantes alterações foram aquelas trazidas pelas EC n° 41/2003 e 47/2005.
 
 A primeira delas, EC n° 41/2003, tratou de questões relacionadas à aposentadoria dos servidores públicos, estabelecendo novos critérios concessórios e regras de cálculos de benefício - incluindo o fim da famosa regra da "integralidade e paridade" (aposentadoria com proventos integrais e igualdade de tratamento entre servidores aposentados e em atividade), por exemplo.
+
+![Emenda 41/2003](https://lztforeferfiles.s3.us-west-2.amazonaws.com/timeline1.jpg)
+
 
 Além disso, a EC n° 41/2003 garantiu o direito ao abono de permanência para servidores que atendessem aos requisitos de aposentadoria e optassem por continuar em atividade.
 
 A segunda EC n° 47/2005, por sua vez, ampliou as possibilidades de acumulação de benefícios e também estabeleceu novas normas para concessão dos benefícios, inclusive determinando que os proventos concedidos com base no artigo 6° da EC n° 41/2003 fossem revistos na mesma proporção e data dos servidores em atividade.
 
+![Emenda 43/2005](https://lztforeferfiles.s3.us-west-2.amazonaws.com/timeline2.jpg)
+
+
 Mais recentemente, a EC n° 103/19 (Federal) agravou - e muito - a situação dos servidores públicos, passando a prever novas idades mínimas e acabando de uma vez por todas com a possibilidade de recebimento dos benefícios nos moldes das regras mais benéficas até então previstas nas EC n° 41/2003 e n° 47/2005, além de modificar também questões relacionadas ao abono de permanência.
 
+
+![Emenda 103/2019](https://lztforeferfiles.s3.us-west-2.amazonaws.com/timeline3.jpg)
+
+
 Na mesma linha da EC n° 103/19, a EC PR n° 45/2019 no âmbito do Regime Próprio do Estado do Paraná replicou grande parte do regramento desfavorável previsto na Reforma Federal, mas ao mesmo tempo deixou algumas lacunas que só foram resolvidas tempos mais tarde, com a edição da Lei Complementar (LC PR) n° 233/2021, em 10/03/2021.
+
+![Emenda 103/2019](https://lztforeferfiles.s3.us-west-2.amazonaws.com/timeline4.jpg)
+
 
 A LC Estadual n° 233/21 desempenha um papel central, uma vez que disciplina os benefícios do Regime Próprio de Previdência Social (RPPS) dos servidores do Estado do Paraná. Ela representa a legislação específica que estabelece as regras detalhadas para a previdência dos servidores estaduais.
 
 Por conta disso, a LC PR n° 233/2021 passou a atuar como um novo balizador, pode fazer a diferença em muitas aposentadorias, ampliando o marco temporal para a obtenção de regras de transição previstas nas EC n° 41/2003 e 47/2005 que hoje estão extintas.
+
+![Emenda 103/2019](https://lztforeferfiles.s3.us-west-2.amazonaws.com/timeline5.jpg)
+
 
 
 ## O que foi decidido na consulta ao Tribunal de Contas do Paraná
@@ -122,6 +140,11 @@ A consulta levou a uma orientação emitida pelo plenário do Tribunal de Contas
 Isso porque o TCE-PR garantiu a possibilidade de concessão de aposentadoria e abono de permanência com base nas EC n° 41/2003 e 47/2005 aos servidores que tenham preenchido os requisitos após a publicação da EC PR n° 45/2019 (04/12/2019) até a edição de LC PR 233/2021 (10/03/2021).
 
 Dito de outro modo, a decisão ressaltou a importância da Lei Complementar Estadual n° 233/21 como referência para o processo de revogação da EC no 41/03 no Estado do Paraná, tornando-se o novo marco temporal a ser respeitado para as regras de transição, mais especificamente, a data de 10/03/2021.
+
+Confira resumidamente a linha do tempo das mudanças e reformas sobre o tema: 
+
+![Linha do Tempo](https://lztforeferfiles.s3.us-west-2.amazonaws.com/timelinefull.jpg)
+
 
 Esse conjunto complexo de emendas e leis reflete o panorama legal da previdência no Paraná. A compreensão dessas normas é fundamental para os servidores que buscam a aposentadoria e o abono de permanência, especialmente aqueles que preencheram os requisitos após 04/12/2019, data da Reforma da Previdência paranaense (EC n° 45/2019).
 
