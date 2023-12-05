@@ -12,6 +12,100 @@ description: "Neste artigos vamos responder suas dúvidas e saiba como evitar im
     </div>
 </div>
 
+
+# Desafios e Possibilidades na Acumulação de Benefícios Previdenciários: Uma Análise Jurídica
+
+Nos últimos anos, a questão da acumulação de benefícios previdenciários tem se tornado um tema recorrente e desafiador para muitos brasileiros. 
+
+Uma situação específica foi compartilhada recentemente por uma cliente preocupada com uma notificação do Tribunal de Contas União (TCU), alegando irregularidades em sua tríplice acumulação de benefícios previdenciários.
+
+Este artigo busca explorar os desafios enfrentados por indivíduos nessa situação e as possíveis estratégias de defesa.
+
+
+## Teses sobre a tríplice acumulação de benefícios e proventos
+
+### Diferentes fontes pagadoras
+
+Essa tese defendia que sendo diversa fontes pagadoras, haveria possibilidade de manter os benefícios. Se o direito tinha sido adquirido através de diferentes vínculos não poderia haver a restrição. 
+
+Entretanto, o entendimento que prevaleceu foi de que a vedação seria mantida mesmo quando as fontes pagadoras fossem distintas, conforme o entendimento firmado abaixo pelo TJRJ:
+
+APELAÇÃO CÍVEL. DECLARATÓRIA DE ATO ADMINISTRATIVO. OBRIGAÇÃO DE FAZER. COBRANÇA. REESTABELECIMENTO DE APOSENTADORIA DE SERVIDOR FALECIDO E PAGAMENTO DE PENSÃO. PRETENSÃO DE TRÍPLICE ACUMULAÇÃO DE PROVENTOS DE BENEFICIÁRIA DE PENSÃO DE SERVIDOR ESTADUAL E APOSENTADORIA DO COFRE PÚBLICO ESTADUAL, SOMADOS A PENSÃO ESPECIAL DE DEPENDENTE DE EX-COMBATENTE. VEDAÇÃO À ACUMULAÇÃO TRÍPLICE DE PROVENTOS, AINDA QUE PROVENIENTES DE FONTES PAGADORAS DISTINTAS. ENTENDIMENTO FIRMADO PELOS TRIBUNAIS SUPERIORES. O Supremo Tribunal Federal, no ARE n° 848993 RG/MG, julgado sob a sistemática da repercussão geral, consolidou o entendimento de que é vedada, em qualquer hipótese, a acumulação tríplice de remunerações a título de proventos ou vencimentos, ainda que o provimento nos cargos tenha ocorrido antes da Emenda Constitucional n° 20 /1998. PROVIMENTO DO RECURSO.
+
+### Direito adquirido
+
+Infelizmente essa tese também não prosperou, mesmo recebendo o benefício ou mesmo proventos de Cargo Público, o entendimento firmado pelos tribunais foi de que a Tríplice Acumulação de benefícios NÃO gera o direito adquirido, confira o entendimento do Tribunal Regional Federal da 4a Região (TRF4): 
+
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. TRÍPLICE ACUMULAÇÃO DE BENEFÍCIOS. IMPOSSIBILIDADE. RECURSO IMPROVIDO. 1. A Lei n° 3.765/60 somente permite a cumulação de 2 (dois) benefícios, sendo a acumulação tríplice totalmente inviável, seja na redação revogada, seja na atualmente em vigor. 2. Assim, a pensão militar não pode ser cumulada com a pensão por morte previdenciária e a aposentadoria por tempo de contribuição, facultado apenas o direito de opção, desde que respeitada a limitação contida no art. 29 da Lei n° 3.765 /60.
+
+### Doenças, idade avançada e necessidade do benefício
+
+Doenças específicas, idade avançada, baixa renda, necessidade do benefício são todos elementos importantes na vida das pessoas, especialmente devido a necessidades de mantenção de sua renda e qualidade de vida. 
+
+Entretanto, estes elementos não possuem força para alterar a dureza da lei, de forma que os tribunais vêm sistematicamente rejeitando esse argumento contra a tríplice acumulação. 
+
+### Prescrição e Decadência da Administração Pública 
+
+Esse é o argumento mais forte, que deveria ter sido acolhido pelos tribunais. As pessoas não recebem o benefício de forma oculta. Há conhecimento da Administração Pública quanto ao seu pagamento, o que é uma obviedade.
+
+---> Explicar um pouco sobre prescrição 
+
+Entretanto, mesmo tendo conhecimento dos pagamentos realizados, a administraçõa pública levou anos e até décadas para iniciar o cruzamento das informações e identificar a tríplice acumulação. 
+
+Devido a essa nova sistemática é que foram entregue várias cartinhas do TCU intimando os clientes a se manifestarem sobre a acumulação indevida. 
+
+Inclusive, a maioria dos segurados declarava no seu Imposto de Renda que fazia o recebimento da Tríplice Acumulação. 
+
+De forma inesperada os tribunais rejeitaram o argumento, informando que não existe prescrição nestes casos para o Poder Público. Em várias hipóteses, inclusive com essa declaração do Imposto de Renda, entendeu o Judiciário que a prescrição só começaria a valer a partir do "conhecimento do fato", ou seja, quando houve o cruzamento das inforamções e a emissão das cartinhas.
+
+### Acumulação legal de cargos e funções
+
+### Escolha do benefício MAIS vantajoso
+
+
+A complexidade desses casos tem se tornado mais comum, levando a questionamentos legais e notificações do TC.
+
+Teses Jurídicas e Suas Implicações:
+
+O vídeo compartilhado menciona diversas teses jurídicas utilizadas para a defesa nesses casos. A diferenciação da fonte pagadora, o direito adquirido, doenças, idade avançada e a necessidade do benefício foram discutidos como possíveis argumentos. No entanto, o vídeo destaca que muitas dessas teses foram rejeitadas pelos tribunais, estabelecendo um cenário desafiador para aqueles que buscam manter a tríplice acumulação.
+
+Prescrição e Decadência:
+
+Outro ponto abordado é a prescrição e decadência, termos complexos que indicam a perda do direito ao longo do tempo. O vídeo destaca que, embora existam prazos para alegar determinadas situações, a prescrição é muitas vezes interpretada de maneira favorável à União, evidenciando um protecionismo judicial.
+
+Acumulação Legal de Cargos Públicos:
+
+Uma tese interessante mencionada no vídeo é a acumulação legal de cargos públicos. Alega-se que, em alguns casos, é possível acumular benefícios e remunerações de cargos públicos, desde que amparado pela Constituição. Esse entendimento jurisprudencial pode oferecer uma saída para alguns casos de tríplice acumulação.
+
+Escolhas e Petições:
+
+O vídeo conclui sugerindo que, caso não seja possível manter todos os benefícios, é necessário fazer uma escolha baseada na vantagem financeira. Geralmente, abre-se mão do benefício de menor valor, e é crucial elaborar uma petição justificando a renúncia. O processo exige uma análise cuidadosa, considerando a exceção à regra da irresponsabilidade dos benefícios previdenciários.
+
+Conclusão:
+
+A acumulação de benefícios previdenciários é um desafio crescente que exige uma compreensão profunda das leis e teses jurídicas envolvidas. Este artigo ofereceu uma visão sobre a situação, destacando a complexidade das defesas disponíveis e as dificuldades enfrentadas pelos beneficiários. Em um cenário jurídico em constante evolução, é fundamental buscar orientação especializada para lidar com casos de tríplice acumulação, garantindo o pleno exercício dos direitos previdenciários.
+
+
+
+
+## Exemplos Práticos
+
+No nosso primeiro caso em análise nossa cliente possuía: 
+
+1. Aposentadoria como professora; 
+2. Pensão Militar do pai falecido; 
+3. Aposentadoria pelo Regime Geral de Previdência Social (RGPS-INSS).
+
+Devido a essa tríplice acumulação ela foi intimada pelo TCU (Tribunal de Contas da União) a manter apenas um dos seus benefícios. 
+
+Infelizmente, neste caso, o Tribunal de Contas tinha razão e ela não poderia manter os três benefícios. 
+
+Nesta época o INSS ainda não possuía protocolo próprio para a Renúncia de Benefícios e foi preciso uma ação Judicial para conseguir renunciar ao benefício do INSS, que era o menos vantajoso na época. 
+
+Algumas teses foram trabalhadas neste tema nos últimos anos e é importante compartilhar aqui para você compreender esse tema mais a fundo. 
+
+
+
 # O que fazer quando for identificado a acumulação indevida de três benefícios previdenciários?
 
 
