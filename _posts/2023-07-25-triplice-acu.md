@@ -46,9 +46,11 @@ Entretanto, estes elementos não possuem força para alterar a dureza da lei, de
 
 ### Prescrição e Decadência da Administração Pública 
 
-Esse é o argumento mais forte, que deveria ter sido acolhido pelos tribunais. As pessoas não recebem o benefício de forma oculta. Há conhecimento da Administração Pública quanto ao seu pagamento, o que é uma obviedade.
+Esse é o argumento mais forte, que deveria ter sido acolhido pelos tribunais brasileiros. As pessoas não recebem o benefício de forma oculta. Há conhecimento da Administração Pública quanto ao seu pagamento, o que é uma obviedade.
 
----> Explicar um pouco sobre prescrição 
+Prescrição nada mais é do que a perda do direito por ausência de manifestação sobre determinado tema jurídico. Pode ocorrer em todas as esferas do direito e não é só para os cidadãos entre suas relações públicas ou particulares.
+
+A Prescrição também ocorre para o governo, para que as pessoas não fiquem a vida inteira a mercê de situações que poderiam ter sido vistas anteriormente. 
 
 Entretanto, mesmo tendo conhecimento dos pagamentos realizados, a administraçõa pública levou anos e até décadas para iniciar o cruzamento das informações e identificar a tríplice acumulação. 
 
@@ -56,9 +58,17 @@ Devido a essa nova sistemática é que foram entregue várias cartinhas do TCU i
 
 Inclusive, a maioria dos segurados declarava no seu Imposto de Renda que fazia o recebimento da Tríplice Acumulação. 
 
-De forma inesperada os tribunais rejeitaram o argumento, informando que não existe prescrição nestes casos para o Poder Público. Em várias hipóteses, inclusive com essa declaração do Imposto de Renda, entendeu o Judiciário que a prescrição só começaria a valer a partir do "conhecimento do fato", ou seja, quando houve o cruzamento das inforamções e a emissão das cartinhas.
+De forma inesperada os tribunais rejeitaram o argumento, informando que não existe prescrição nestes casos para o Poder Público porque só se começa a contar o prazo desta prescrição, a partir do momento em que o Poder Público tem conhecimento da situação, ou seja, quando a cartinha é emitida. 
+
+É uma hipótese extremamente forçadas e sem sentido. Nada mais do que um protecionismo as atividades do Estado, protegendo uma omissão evidente. 
+
+Em várias hipóteses, inclusive com essa declaração do Imposto de Renda, entendeu o Judiciário que a prescrição só começaria a valer a partir do "conhecimento do fato", ou seja, quando houve o cruzamento das inforamções e a emissão das cartinhas.
 
 ### Acumulação legal de cargos e funções
+
+Quando a situação envolve um professor... 
+
+Neste caso, não chega a ser um argumento, mas uma exceção que está na própria Constituição. Não há como a legislação ser contrária a Constituição Federal. Portanto, pelo menos este argumento foi respeitado. 
 
 ### Escolha do benefício MAIS vantajoso
 
