@@ -1,7 +1,7 @@
 ---
 title: "Revisão do Teto anterior a 1988: saiba o que é e descubra se você tem direito a aumentar o valor do seu benefício!"
 layout: post
-permalink: /revisao-de-testos-anterior-a-1998/
+permalink: /revisao-de-tetos-anterior-a-1988/
 description: "Descubra como essa tese pouco conhecida pode impactar positivamente a vida de aposentados e pensionistas, aumentando significativamente o valor dos seus benefícios. "
 tags: aposentadoria, inss, tetos do inss, teto minimo, teto maximo, como aumentar beneficio, como aumentar aposentadoria, revisao de beneficio, direito previdenciário.
 ---
