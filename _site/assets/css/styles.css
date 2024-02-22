@@ -10145,6 +10145,12 @@ header {
     height: 100%;
     border-radius: 2em; }
 
+@media (min-width: 768px) {
+  img {
+    width: 500px;
+    /* Largura fixa de 500 pixels */
+    height: 500px;
+    /* Altura fixa de 500 pixels */ } }
 .imagem img {
   max-width: 100%;
   /* Ajusta a largura máxima para garantir responsividade */
