@@ -8,7 +8,7 @@ description: "Neste artigos vamos responder suas dúvidas e saiba como evitar im
 
 <div class="moldura">
     <div class="video">
-        <iframe src="https://www.youtube.com/embed/jPWrd8rW-nY"></iframe>
+        <iframe src="https://youtu.be/CXLdYQXx1DI"></iframe>
     </div>
 </div>
 
