@@ -4,7 +4,7 @@ layout: post
 permalink: /revertendo-o-indeferimento-da-aposentadoria-especial-com-muitos-erros-estrategia-do-duplo-requerimento/
 description: "Descubra como sanar os erros e inconsistências do requerimento administrativo e salvar o benefício previdenciário e os atrasados "
 published: false
-tags: < A FAZER >
+tags: direito previdenciario regras advocacia previdenciaria
 ---
 
 # Revertendo o Indefimento da Aposentadoria Especial: Uma História de Sucesso
