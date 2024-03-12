@@ -44,7 +44,7 @@ O trabalhador atinge a aposentadoria quando a soma de sua idade e tempo de contr
 
 ### Vídeo explicando as principais regras de Transição
 
-[Confira neste link as principais regras de transição](https://youtu.be/xjppMIaFD4w)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xjppMIaFD4w?si=hkR9_FkjKhnNH_ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Caso o trabalhador permaneça em atividade especial, também é possível conseguir uma regra de transição específica da aposentadoria especial, continue lendo.
 
@@ -189,3 +189,6 @@ Recomenda-se portanto, que haja mudança nos quadros funcionais do trabalhador, 
 Contudo, para toda regra a exceções, este é o caso do enfermeiro que já conseguiu a aposentadoria especial antes do entendimento do STF e obteve o direito de permanecer trabalhando no ambiente insalubre.
 
 Também há mais uma exceção para o enfermeiro em gozo da aposentadoria especial e retorna para trabalhar na linha frente do combate ao Covid-19, você não terá seu benefício cessado por uma situação de extremo risco. Apesar do fim do COVID entendemos relevante a informação para situações que possam ser correlacionadas.
+
+## Consulte nosso vídeo no YouTube sobre o tema:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GYxHm_BpS8Y?si=1X0ty9JWv3hWCeZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
