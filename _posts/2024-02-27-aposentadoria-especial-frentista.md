@@ -7,23 +7,21 @@ published: true
 tags: frentista caixa aposentadoria especial posto combustíveis
 ---
 
-<div style="text-align: justify"> 
-
 # Aposentadoria especial para frentistas caixas e trabalhadores de postos de combustíveis: tudo o que você precisa saber
 
 <meta name="description" content="Trabalhadores de postos de combustíveis têm direito a aposentadoria especial? Veja tudo o que você precisa saber sobre a aposentadoria especial para frentista, chefe de pista, caixa e outros trabalhadores de postos de combustíveis.">
 
-Se você trabalha em um posto de combustível, sabe que essa é uma ocupação que envolve alguns riscos. 
+Se você trabalha em um posto de combustível, sabe que essa é uma ocupação que envolve alguns riscos.
 
 É isso mesmo. Os funcionários de postos de combustível estão em constante exposição a agentes de alta periculosidade e a ambientes insalubres.
 
 Com isso, a dúvida que surge é: quem trabalha em posto de combustivel têm direito à aposentadoria especial?
 
-Neste artigo, responderemos a todas as suas dúvidas sobre a aposentadoria especial para frentista, chefe de pista, caixa e outros funcionários de postos de combustíveis. 
+Neste artigo, responderemos a todas as suas dúvidas sobre a aposentadoria especial para frentista, chefe de pista, caixa e outros funcionários de postos de combustíveis.
 
 ## O que é a aposentadoria especial?
 
-A aposentadoria especial é um benefício previdenciário previsto no artigo 201, §1º da Constituição Federal e na Lei 8.213/1991. É um benefício previdenciário concedido a trabalhadores que atuam em condições especiais e prejudiciais à sua saúde ou à sua integridade física, reduzindo o tempo de contribuição necessário para a aposentadoria. 
+A aposentadoria especial é um benefício previdenciário previsto no artigo 201, §1º da Constituição Federal e na Lei 8.213/1991. É um benefício previdenciário concedido a trabalhadores que atuam em condições especiais e prejudiciais à sua saúde ou à sua integridade física, reduzindo o tempo de contribuição necessário para a aposentadoria.
 
 Assista ao vídeo a seguir onde tratamos do assunto:
 
@@ -32,7 +30,7 @@ Assista ao vídeo a seguir onde tratamos do assunto:
 
 ## Trabalhadores de postos de combustíveis têm direito à aposentadoria especial?
 
-Os profissionais envolvidos na revenda de combustíveis, possuem direito à aposentadoria especial, dentre as atividades mais comuns no ramo de combustíveis estão as seguintes: 
+Os profissionais envolvidos na revenda de combustíveis, possuem direito à aposentadoria especial, dentre as atividades mais comuns no ramo de combustíveis estão as seguintes:
 
 - Frentista
 - Trocador de Óleo
@@ -40,14 +38,14 @@ Os profissionais envolvidos na revenda de combustíveis, possuem direito à apos
 - Caixa (mesmo na loja de convêniencia)
 - Proprietário
 - Gerente
-- Chefe de Pista; 
-- Motoristas de Caminhão Tanque; 
+- Chefe de Pista;
+- Motoristas de Caminhão Tanque;
 - Recebedores de carga;
-- Operadores em base de combustíveis; 
+- Operadores em base de combustíveis;
 
-Isso porque suas atividades são realizadas dentro dos limites da área do posto de combustível, expondo-os a gases tóxicos, incluindo o benzeno, que é um produto classificado como cancerígeno e está presente na Lista Nacional de Agentes Cancerígenos para Humanos (LINACH). Além da exposição ao agente químico, a periculosidade também é um elemento essencial que faz toda a diferença no momento da aposentadoria.  
+Isso porque suas atividades são realizadas dentro dos limites da área do posto de combustível, expondo-os a gases tóxicos, incluindo o benzeno, que é um produto classificado como cancerígeno e está presente na Lista Nacional de Agentes Cancerígenos para Humanos (LINACH). Além da exposição ao agente químico, a periculosidade também é um elemento essencial que faz toda a diferença no momento da aposentadoria.
 
-Para entender se você tem direito, é importante entender a legislação e os detalhes desta aposentadoria especial, visto que é o trabalhador quem deve comprovar a exposição a tais agentes nocivos. 
+Para entender se você tem direito, é importante entender a legislação e os detalhes desta aposentadoria especial, visto que é o trabalhador quem deve comprovar a exposição a tais agentes nocivos.
 
 Por exemplo, gerentes e caixas de posto de gasolina podem obter o benefício se comprovarem que trabalharam expostos a agentes perigosos, como o risco de incêndio. Para isso, é necessário provar que o trabalho era prestado dentro do raio de 7,5 metros da bomba de combustível.
 
@@ -69,7 +67,7 @@ A exposição a hidrocarbonetos pode causar uma série de problemas de saúde co
 
 ### Benzeno
 
-O benzeno é considerado um produto cancerígeno, conforme descrito na Portaria Ministerial nº9 de 2014. Nela contém a Lista Nacional de Agentes Cancerígenos para Humanos (LINNACH), criada para ser utilizada como referência na elaboração de políticas públicas. 
+O benzeno é considerado um produto cancerígeno, conforme descrito na Portaria Ministerial nº9 de 2014. Nela contém a Lista Nacional de Agentes Cancerígenos para Humanos (LINNACH), criada para ser utilizada como referência na elaboração de políticas públicas.
 
 O agente químico benzeno é uma substância volátil, ou seja, pode penetrar em nosso corpo pela pele e, principalmente, pela respiração.
 
@@ -77,15 +75,15 @@ A gasolina contém benzeno em sua composição e o contato crônico com o produt
 
 ### Perigo de incêndio e explosões
 
-Além da exposição a agentes químicos, os trabalhadores de postos de combustíveis também podem estar expostos a condições de periculosidade. 
+Além da exposição a agentes químicos, os trabalhadores de postos de combustíveis também podem estar expostos a condições de periculosidade.
 
 Isso porque os postos de combustíveis possuem substâncias inflamáveis, que podem causar explosões e incêndios.
 
-Por esse motivo, a NR16, que trata de atividades e operações perigosas, traz em seu escopo que o trabalho feito em contato com inflamáveis é um trabalho perigoso. 
+Por esse motivo, a NR16, que trata de atividades e operações perigosas, traz em seu escopo que o trabalho feito em contato com inflamáveis é um trabalho perigoso.
 
 Sendo assim, frentistas, chefes de pista, caixas e recebedores de carga e outras atividades relacionadas, têm direito ao adicional de periculosidade. O adicional de 30% para essas atividades está previsto no Item "1", alínea _"m"_ do _"Anexo 2 - atividades e operações perigosas com inflamáveis"_ da NR16.
 
-**Mas atenção!** Mesmo que você receba o adicional de periculosidade ou insalubridade, é preciso, ainda assim, comprovar a exposição às atividades insalubres ou perigosas ao INSS para fins de aposentadoria especial. A periculosidade por si só não é suficiente para comprovar os elementos da aposentadoria especial, o INSS e a Justiça Federal especializada entendem que os entendimentos trabalhistas e previdenciários possuem exigências diferentes. 
+**Mas atenção!** Mesmo que você receba o adicional de periculosidade ou insalubridade, é preciso, ainda assim, comprovar a exposição às atividades insalubres ou perigosas ao INSS para fins de aposentadoria especial. A periculosidade por si só não é suficiente para comprovar os elementos da aposentadoria especial, o INSS e a Justiça Federal especializada entendem que os entendimentos trabalhistas e previdenciários possuem exigências diferentes.
 
 ### O uso de Equipamento de Proteção Individual (EPI) reduz os riscos?
 
@@ -97,29 +95,29 @@ A Justiça brasileira entende que o uso de EPIs não afasta o direito à aposent
 
 Portanto, os trabalhadores expostos a agentes químicos nocivos, como é o caso, têm direito à aposentadoria especial, mesmo que usem EPIs.
 
-No caso dos postos também eu nunca vi nenhum trabalhador utilizando equipamentos de proteção respiratório. 
+No caso dos postos também eu nunca vi nenhum trabalhador utilizando equipamentos de proteção respiratório.
 
 ## Como solicitar a aposentadoria especial?
 
 ### Postos de atendimento do INSS ou pelo Meus INSS
 
-Hoje em dia, a internet facilita muita coisa e pode poupar o trabalho de ir até um posto do INSS. 
+Hoje em dia, a internet facilita muita coisa e pode poupar o trabalho de ir até um posto do INSS.
 
 Através do aplicativo "Meu INSS" você já pode solicitar sua aposentadoria. Você precisa ter o cadastro no aplicativo. Além disso, é necessário que sejam anexados vários documentos que justifiquem o seu pedido. Vamos falar sobre eles mais a frente.
 
-O INSS pode negar o pedido de aposentadoria especial alegando o uso correto do equipamento de proteção individual, problemas com a documentação, ausência de exposição aos agentes insalubres ou perigosos, mas essas decisões são incorretas e podem ser revertidas posteriormente. 
+O INSS pode negar o pedido de aposentadoria especial alegando o uso correto do equipamento de proteção individual, problemas com a documentação, ausência de exposição aos agentes insalubres ou perigosos, mas essas decisões são incorretas e podem ser revertidas posteriormente.
 
-Se o pedido de aposentadoria especial for negado pelo INSS, o trabalhador pode recorrer à Justiça. Neste vídeo eu conto um pouco sobre um processo previdenciário de aposentadoria especial < VIDEO > de uma Caixa em Posto de Combustíveis. 
+Se o pedido de aposentadoria especial for negado pelo INSS, o trabalhador pode recorrer à Justiça. Neste vídeo eu conto um pouco sobre um processo previdenciário de aposentadoria especial < VIDEO > de uma Caixa em Posto de Combustíveis.
 
 ## Como têm sido as decisões dos tribunais?
 
-Na prática, as decisões têm sido favoráveis aos trabalhadores. Uma decisão do TRF-3 concedeu aposentadoria especial por trabalho em posto de gasolina a um segurado que exerceu atividades de serviços gerais e gerência no estabelecimento, porém, não há um posicionamento uniforme em toda a jurisprudência nacional. É importante rever todos os documentos emitidos e até mesmo avaliar uma possível necessidade de perícia e a confirmação de testemunhas sobre o trabalho desempenhado pelo trabalhador. 
+Na prática, as decisões têm sido favoráveis aos trabalhadores. Uma decisão do TRF-3 concedeu aposentadoria especial por trabalho em posto de gasolina a um segurado que exerceu atividades de serviços gerais e gerência no estabelecimento, porém, não há um posicionamento uniforme em toda a jurisprudência nacional. É importante rever todos os documentos emitidos e até mesmo avaliar uma possível necessidade de perícia e a confirmação de testemunhas sobre o trabalho desempenhado pelo trabalhador.
 
 ### Gerente de posto de combustível
 
 Aqui no escritório, temos um caso de um gerente de posto de combustível que acumulou mais de 25 anos de contribuição e o INSS indeferiu pedido de aposentadoria por tempo de contribuição, alegando falta de tempo mínimo de contribuição.
 
-Neste particular, gerentes e proprietários de posto de combustíveis possuem maior dificuldade para conseguir a aposentadoria. Muitos juízes consideram que essas atividades não possuem vínculo direto com a atividade insalubre e perigosa, mas tratam-se de atividades burocráticas. Nestes casos é preciso um esforço adicional para mostrar a permanência constante do risco nas atividades desempenhadas, ainda que não sejam de frentista. 
+Neste particular, gerentes e proprietários de posto de combustíveis possuem maior dificuldade para conseguir a aposentadoria. Muitos juízes consideram que essas atividades não possuem vínculo direto com a atividade insalubre e perigosa, mas tratam-se de atividades burocráticas. Nestes casos é preciso um esforço adicional para mostrar a permanência constante do risco nas atividades desempenhadas, ainda que não sejam de frentista.
 
 Porém, ao levar o caso à justiça, o juiz reconheceu a natureza especial das atividades exercidas por nosso cliente em postos de combustível e concedeu o benefício de Aposentadoria Especial. Determinando o cumprimento imediato da decisão, incluindo o pagamento dos valores em atraso com acréscimo de juros e correção monetária.
 
@@ -127,9 +125,9 @@ Porém, ao levar o caso à justiça, o juiz reconheceu a natureza especial das a
 
 Em outro caso, nossa cliente exerceu atividade como frentista e posteriormente como caixa, possuindo mais de 25 anos de contribuição.
 
-Ela conseguiu o reconhecimento do período de frentista, comprovando a exposição permanente ao benzeno. 
+Ela conseguiu o reconhecimento do período de frentista, comprovando a exposição permanente ao benzeno.
 
-No período de Caixa, juntamos uma perícia técnica e plantas do imóvel mostrando que a loja de conveniência onde ela exercia sua atividade, estava dentro do raio de risco das ações dos agentes inflamáveis periculosos. 
+No período de Caixa, juntamos uma perícia técnica e plantas do imóvel mostrando que a loja de conveniência onde ela exercia sua atividade, estava dentro do raio de risco das ações dos agentes inflamáveis periculosos.
 
 Nesse caso, o INSS reconheceu o tempo especial de um período de contribuição da cliente. Foi julgado procedente em parte este processo com concessão de aposentadoria integral especial.
 
@@ -141,9 +139,9 @@ A aposentadoria especial é importante para os trabalhadores de postos de combus
 - Permite que os trabalhadores se aposentem mais cedo;
 - Pode ajudar a compensar os danos à saúde causados pelo trabalho.
 
-## Qual o valor da aposentadoria especial para trabalhadores de postos de combustíveis? 
+## Qual o valor da aposentadoria especial para trabalhadores de postos de combustíveis?
 
-### Como era antes da reforma da previdência? 
+### Como era antes da reforma da previdência?
 
 As regras de cálculo do valor da aposentadoria especial para frentistas e trabalhadores de postos de combustíveis foram alteradas com a Reforma Previdenciária. As mudanças prejudicaram os segurados, pois tornaram o cálculo mais complexo e reduziram o valor do benefício.
 
@@ -161,7 +159,7 @@ Para se beneficiar das regras anteriores à reforma, é preciso ter direito adqu
 
 Além disso, os trabalhadores que exerceram atividades especiais apenas por um período anterior a 11 de novembro de 2019, data da promulgação da reforma, podem converter esse tempo em comum. Isso pode ajudá-los a se aposentar por tempo de contribuição.
 
-![Valor da aposentadoria especial para trabalhadores de postos de combustíveis](https://lztforeferfiles.s3.us-west-2.amazonaws.com/posto-frentista-infografico.png)
+<img style="width: auto; max-width: 100%;" src="https://lztforeferfiles.s3.us-west-2.amazonaws.com/posto-frentista-infografico.png" alt="Valor da aposentadoria especial para trabalhadores de postos de combustíveis">
 
 
 ## Quais são os requisitos para solicitar a aposentadoria especial para os funcionários de posto de combustíveis?
@@ -174,7 +172,7 @@ A exposição a agentes nocivos é comprovada por meio de laudos técnicos emiti
 
 Os trabalhadores que começaram a trabalhar em postos de combustíveis antes da reforma da previdência, em 13 de novembro de 2019, podem ter direito adquirido à aposentadoria especial. Nesse caso, eles podem se aposentar com 25 anos de contribuição, mesmo que não tenham cumprido a idade mínima de 60 anos.
 
-Para saber exatamente qual é a perspectiva de cada caso é preciso fazer um estudo previdenciário e avaliar o tempo consquistado, os documentos e as regras atuais a serem cumpridas. 
+Para saber exatamente qual é a perspectiva de cada caso é preciso fazer um estudo previdenciário e avaliar o tempo consquistado, os documentos e as regras atuais a serem cumpridas.
 
 ### Laudos técnicos
 
@@ -192,7 +190,7 @@ O Laudo Técnico das Condições do Ambiente de Trabalho é um documento emitido
 
 A exposição a agentes nocivos deve ser habitual e permanente, o que não significa que o trabalhador deve estar exposto ao agente nocivo durante toda a jornada de trabalho.
 
-No caso em questão, a exposição a agentes nocivos é presumida, pois eles trabalham em contato com produtos químicos, como o benzeno e os hidrocarbonetos. 
+No caso em questão, a exposição a agentes nocivos é presumida, pois eles trabalham em contato com produtos químicos, como o benzeno e os hidrocarbonetos.
 
 ### Requisitos
 
@@ -222,13 +220,13 @@ Além dos documentos que comprovam a atividade especial, o frentista deve aprese
 
 ## Posso continuar trabalhando após receber aposentadoria especial?
 
-Após a concessão dessa aposentadoria, o trabalhador pode continuar trabalhando, mas não em atividades que possam prejudicar sua saúde. No Brasil, a legislação permite que o aposentado especial continue trabalhando, desde que não seja em atividades insalubres ou perigosas. 
+Após a concessão dessa aposentadoria, o trabalhador pode continuar trabalhando, mas não em atividades que possam prejudicar sua saúde. No Brasil, a legislação permite que o aposentado especial continue trabalhando, desde que não seja em atividades insalubres ou perigosas.
 
-A questão foi definitivamente julgada pelo STF em 2020 no RE 791.961, proibindo a acumulação de aposentadoria especial e a continuidade do vínculo, alguns pontos devem ser detacados: 
+A questão foi definitivamente julgada pelo STF em 2020 no RE 791.961, proibindo a acumulação de aposentadoria especial e a continuidade do vínculo, alguns pontos devem ser detacados:
 
 1. O trabalhador que entrou com processo previdenciário de aposentadoria especial e continua trabalhando tem o direito de receber os atrasados;
-2. Quem já conseguiu o direito na justiça, por exemplo no TRF4 possui o direito de continuar trabalhando no mesmo ramo independente da Aposentadoria Especial; 
-3. A aposentadoria especial gera rompimento do vínculo, neste caso por culpa do trabalhador, o que possui reflexos trabalhistas específicos; 
+2. Quem já conseguiu o direito na justiça, por exemplo no TRF4 possui o direito de continuar trabalhando no mesmo ramo independente da Aposentadoria Especial;
+3. A aposentadoria especial gera rompimento do vínculo, neste caso por culpa do trabalhador, o que possui reflexos trabalhistas específicos;
 
 ## Conclusão
 
@@ -236,7 +234,6 @@ Neste texto, respondemos às dúvidas mais comuns sobre a aposentadoria especial
 
 Além disso, foi possível notar o quanto a aposentadoria especial é importante para esses trabalhadores, pois lhes garante uma renda fixa e vitalícia, além de compensar os danos à saúde causados pelo trabalho.
 
-Vimos também que para solicitar a aposentadoria especial, é necessário comprovar a exposição aos agentes por meio de laudos técnicos emitidos por profissionais habilitados. 
+Vimos também que para solicitar a aposentadoria especial, é necessário comprovar a exposição aos agentes por meio de laudos técnicos emitidos por profissionais habilitados.
 
-Espero ter esclarecido as suas dúvidas sobre a aposentadoria especial dos trabalhadores em postos de combustíveis. 
-</div>
+Espero ter esclarecido as suas dúvidas sobre a aposentadoria especial dos trabalhadores em postos de combustíveis.
